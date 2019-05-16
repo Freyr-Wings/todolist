@@ -1,0 +1,57 @@
+// css module: https://juejin.im/post/5c3c3df451882525153c2352
+.main{
+  display: flex;
+  width:100%;
+  justify-content:space-around;
+  align-items:flex-start;
+  margin-top: 10px;
+}
+
+.page{
+  list-style: none;
+  padding:0;
+  margin:0;
+  li{
+    float:left;
+    width:30px;
+    height:30px;
+    border:1px solid #e6e6e6;
+    text-align: center;
+    //line-height: 30px;  // http://www.cnblogs.com/dolphinX/p/3236686.html
+    color:#333;
+    cursor:pointer;
+
+    &:first-of-type,&:last-of-type{
+      width:auto;
+      padding:0 5px;
+    }
+
+    &:first-of-type{
+      margin-right:10px;
+    }
+
+    &:last-of-type{
+      margin-left:10px;
+    }
+
+    &::selection {
+      background-color: transparent;
+    }
+  }
+}
+
+.nomore{
+  color:#b5b5b5 !important;
+}
+
+.ellipsis{
+  border:none !important;
+  margin:0 10px;
+  cursor: default !important;
+}
+
+.active{
+  color:#fff !important;
+  background: #54b0bd;
+  border-color:#54b0bd !important;
+}
