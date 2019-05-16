@@ -20,22 +20,22 @@ djangorestframework==3.6.4
 
 ### 增加事项
 
-![img](https://github.com/Freyr-Wings/todolist/gif/add.gif)
+![img](https://github.com/Freyr-Wings/todolist/blob/master/gif/add.gif)
 
 ### 删除事项
 
-![img](https://github.com/Freyr-Wings/todolist/gif/delete.gif)
+![img](https://github.com/Freyr-Wings/todolist/blob/master/gif/delete.gif)
 
 ### 完成事项
 
-![img](https://github.com/Freyr-Wings/todolist/gif/finish.gif)
+![img](https://github.com/Freyr-Wings/todolist/blob/master/gif/finish.gif)
 
 ### 编辑事项
 
-![img](https://github.com/Freyr-Wings/todolist/gif/edit.gif)
+![img](https://github.com/Freyr-Wings/todolist/blob/master/gif/edit.gif)
 
 ### 多种方式排序
 
-![img](https://github.com/Freyr-Wings/todolist/gif/priority.gif)
+![img](https://github.com/Freyr-Wings/todolist/blob/master/gif/priority.gif)
 
 
